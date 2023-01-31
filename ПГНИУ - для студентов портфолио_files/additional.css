@@ -1,0 +1,27 @@
+<STYLE type="text/css">
+<!--
+
+/* стили для всплывающих окон */
+#tooltip{
+	position: absolute;
+	border: 1px solid #333;
+	background: #f7f5d1;
+	padding: 2px 5px;
+	color: #333;
+	display: none;
+} 
+
+#popodiv{
+	position: absolute;
+	border: 1px solid #93d0ea;
+	padding: 2px 5px;
+	color: #333;
+	background: white;
+        z-index:200;
+} 
+
+
+/*  */
+
+-->
+</STYLE>
